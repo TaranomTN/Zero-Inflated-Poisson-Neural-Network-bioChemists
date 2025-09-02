@@ -13,7 +13,7 @@ Models compared:
 
 ### 📁 Files
 
-- `zip_neural_network.ipynb`: Colab notebook containing data preprocessing, model training, and results comparison.
+- `Zero_Inflated_Poisson_Neural_Network_bioChemists.ipynb`: Colab notebook containing data preprocessing, model training, and results comparison.
 - `article_publications.csv`: Dataset used in the notebook (preprocessed).
 
 ---
