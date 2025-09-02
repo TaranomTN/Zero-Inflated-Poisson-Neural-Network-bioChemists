@@ -7,7 +7,7 @@ This project compares the performance of three machine learning models on the **
 Models compared:
 - Poisson Regression
 - Classical Zero-Inflated Poisson (ZIP)
-- **ZIP Neural Network (Ours)**
+- **ZIP Neural Network**
 
 ---
 
@@ -22,7 +22,7 @@ Models compared:
 
 | Model                  | MAE  | MSE  | RMSE |
 |------------------------|------|------|------|
-| **ZIP NN (Ours)**       | 1.22 | 2.95 | 1.72 |
+| **ZIP NN**              | 1.22 | 2.95 | 1.72 |
 | Poisson Regression      | 1.30 | 3.05 | 1.75 |
 | Classical ZIP           | 1.30 | 3.28 | 1.81 |
 
